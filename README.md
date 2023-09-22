@@ -1,4 +1,4 @@
-# rainbow-poem
+# rainbow-poem.txt
 violet
 indigo
 blue
